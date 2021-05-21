@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/classification/chords_preprocessed.csv
+data/classification/chord-fingers.csv
+notebooks/2_classification.ipynb
+notebooks/3_regression.ipynb
